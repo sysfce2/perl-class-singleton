@@ -334,7 +334,7 @@ Bug reports and suggestions can be made on the CPAN Request Tracker at
 L<https://rt.cpan.org/Public/Bug/Report.html?Queue=Class-Singleton>.
 
 Currently active requests on the CPAN Request Tracker can be viewed at
-L<https://rt.cpan.org/Public/Dist/Display.html?Status=Active;Queue=Class-Singleton>.
+L<https://rt.cpan.org/Public/Dist/Display.html?Queue=Class-Singleton>.
 
 Please test this distribution.  See CPAN Testers Reports at
 L<https://www.cpantesters.org/> for details of how to get involved.
