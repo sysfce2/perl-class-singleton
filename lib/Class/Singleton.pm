@@ -336,11 +336,12 @@ L<https://rt.cpan.org/Public/Bug/Report.html?Queue=Class-Singleton>.
 Currently active requests on the CPAN Request Tracker can be viewed at
 L<https://rt.cpan.org/Public/Dist/Display.html?Queue=Class-Singleton>.
 
-Please test this distribution.  See CPAN Testers Reports at
+Please test this distribution.  See CPAN Testers at
 L<https://www.cpantesters.org/> for details of how to get involved.
 
-Previous test results on CPAN Testers Reports can be viewed at
-L<https://www.cpantesters.org/distro/C/Class-Singleton.html>.
+Previous test results on CPAN Testers can be viewed at
+L<https://www.cpantesters.org/distro/C/Class-Singleton.html> and
+L<https://fast2-matrix.cpantesters.org/?dist=Class-Singleton>.
 
 =head1 AVAILABILITY
 
